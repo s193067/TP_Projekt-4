@@ -1,0 +1,26 @@
+﻿  Scanning sources for module dependencies...
+  Elevator.h
+  Window.h
+  Compiling...
+  Elevator.h
+  Window.h
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Window.h(79,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Window.h(79,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(154,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(190,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Elevator.cpp
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Window.h(79,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(154,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(190,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Input.cpp
+  main.cpp
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Window.h(79,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(154,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Elevator.h(190,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Window.cpp
+C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\Elevator\Window.h(79,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Elevator.vcxproj -> C:\Users\TRTSC\Documents\Studia\PP Projekt\Elevator\x64\Debug\Elevator.exe

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Elevator.h.obj",
+            "outputs": [
+                "C:\\Users\\TRTSC\\Documents\\Studia\\PP Projekt\\Elevator\\Elevator\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\TRTSC\\Documents\\Studia\\PP Projekt\\Elevator\\Elevator\\x64\\Debug\\Elevator.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Elevator.h",
+                    "source-path": "c:\\users\\trtsc\\documents\\studia\\pp projekt\\elevator\\elevator\\elevator.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
